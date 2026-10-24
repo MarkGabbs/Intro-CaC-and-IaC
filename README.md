@@ -7,7 +7,7 @@ The goal is to introduce 3 core concepts/uses/examples.
 2.  Terraform - using Terraform to provision cloud resources.
 3.  Ansible - for configuration of other resources.
 
-The content here (directories, subdirectories, and files, are meant for education purposes only.
+The content here (directories, subdirectories), and files, are meant for education purposes only.
 There are many other things that could/should be added to these if you want to move them to production.
 ...a quick example is that in these examples, there is no integration with a "secrets vault" in any way.
 
